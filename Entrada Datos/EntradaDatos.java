@@ -5,6 +5,6 @@ class  EntradaDatos{
         String nombre;
         System.out.println("Dime tu nombre nwn/ ");
         nombre=System.console().readLine();
-        System.out.println("Bienvenido: "+nombre+"a programacion");
+        System.out.println("Bienvenido: "+nombre+" a programacion");
     }
 }
